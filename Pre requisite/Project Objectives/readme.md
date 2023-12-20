@@ -7,9 +7,9 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
 </picture></h2>
 
-<ul><li>
+
 <i>By the end of this project you will:</i>
-</li></ul>
+
 
 ✔ Know fundamental concepts and techniques of transfer learning like Xception. <br>
 ✔ Gain a broad understanding of image data. <br>
